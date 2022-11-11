@@ -4,7 +4,7 @@ Olá, meu nome é Rafaela, mas pode me chamar de Rafa!
 
 Gosto muito de ciências e tecnologias e estou em processo de transição de carreira para retornar a área de tecnologia que eu tanto gosto.
 Para iniciar essa nova etapa estou processo de treinamento no Bootcamp realizado pela DIO e a GFT - Quality Assurance para Mulheres.
-Postarei aqui, com muito carinho, o passo a passo da minha evolução durante esse período ❤️🚀
+Postarei aqui, com muito carinho durante esse período, o passo a passo da minha evolução ❤️🚀
 
 - 📚 Lógica de Programação, Algorítimos, Java
 - ⚡ Adoro praticar Pilates
