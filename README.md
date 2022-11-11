@@ -24,8 +24,4 @@ Postarei aqui, com muito carinho durante esse período, o passo a passo da minha
 
 ---
 
-</div>
-
 ![Snake animation](https://github.com/rafa-soares/rafa-soares/blob/output/github-contribution-grid-snake.svg)
-
-</div>
