@@ -9,6 +9,8 @@ Postarei aqui, com muito carinho durante esse período, o passo a passo da minha
 - 📚 Lógica de Programação, Algorítimos, Java
 - ⚡ Adoro praticar Pilates
 
+</div>
+
 <a target="_blank" href="https://www.linkedin.com/in/rafasoaresdesa/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,4 +24,8 @@ Postarei aqui, com muito carinho durante esse período, o passo a passo da minha
 
 ---
 
+</div>
+
 ![Snake animation](https://github.com/rafa-soares/rafa-soares/blob/output/github-contribution-grid-snake.svg)
+
+</div>
