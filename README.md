@@ -6,7 +6,7 @@ Gosto muito de ciências e tecnologias e realizei transição de carreira em 202
 Para iniciar essa nova etapa, realizei treinamento em dois NeoCamps no Mercado Livre.
 Postarei aqui com muito carinho, o passo a passo da minha evolução ❤️🚀
 
-- 📚 Lógica de Programação, Algorítimos, Java, Spring Boot, Maven, MySQL, H2, BigQuery, RabbitMQ, DataDog, Kibana
+- 📚 Lógica de Programação, Algorítimos, Java, Spring Boot, Maven, MySQL, H2, BigQuery, RabbitMQ, DataDog, Kibana, Nexus Repository
 
 
 <a target="_blank" href="https://www.linkedin.com/in/rafasoaresdesa/">
