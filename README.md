@@ -1,25 +1,9 @@
 ### Oieee, seja bem vindo(a) 👋
 
-Meu nome é Rafaela, mas pode me chamar de Rafa!
+💻 Desenvolvedora Backend  
+☁️ Em preparação para certificação AWS e aprofundando meus estudos em Cloud Computing  
 
-Gosto muito de ciências e tecnologias e realizei transição de carreira em 2022 para retornar a área de tecnologia que eu tanto gosto.
-Para iniciar essa nova etapa, realizei treinamento em dois NeoCamps no Mercado Livre.
-Postarei aqui com muito carinho, o passo a passo da minha evolução ❤️🚀
+Aqui você vai encontrar um pouquinho dos meus estudos, projetos e aprendizados ao longo da minha jornada na tecnologia.
 
-- 📚 Lógica de Programação, Algorítimos, Java, Spring Boot, Maven, MySQL, H2, BigQuery, RabbitMQ, DataDog, Kibana, Nexus Repository
-
-
-<a target="_blank" href="https://www.linkedin.com/in/rafasoaresdesa/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto:rafa.soaresdesa@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5519989495610">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-</br>
-
----
-
-![Snake animation](https://github.com/rafa-soares/rafa-soares/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafasoaresdesa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafasoaresdesa/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?logo=gmail&logoColor=white)](mailto:rafa.soaresdesa@gmail.com)
